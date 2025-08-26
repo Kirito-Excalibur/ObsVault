@@ -1,0 +1,1 @@
+## Free Sync Vault for My Obsidian Vault
