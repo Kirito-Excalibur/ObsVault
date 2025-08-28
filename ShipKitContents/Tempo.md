@@ -1,3 +1,3 @@
 https://www.tempo.new/
 
-Vibecode React Apps.
+Vibecode Designs For React Apps.

@@ -2,22 +2,22 @@
 [[JetBrains]]
 [[Paddle]]
 [[Manus AI]]
-**[[Perplexity]]**
-**[[CodeRabbit]]**
+[[Perplexity]]
+[[CodeRabbit]]
 [[Eleven Labs]]
 [[Product Hunt]]
 [[Stripe]]
 [[Stream]]
-**[[Expo]]**
+[[Expo]]
 [[Linearity]]
 [[Splitmetrics]]
 [[Tempo]]
-**[[Flutterflow]]**
+[[Flutterflow]]
 [[Rork]]
 [[Vibecode]]
 [[Bloom]]
 [[a0.dev]]
 [[Mobbin]]
-**[[Astro]]**
+[[Astro]]
 
 

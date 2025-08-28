@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "494a3090a83daf0a",
+        "id": "38b71caf63ab791c",
         "type": "tabs",
         "children": [
           {
-            "id": "0def32f83f8657bf",
+            "id": "fd29cb8302238e37",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -173,32 +173,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0def32f83f8657bf",
+  "active": "fd29cb8302238e37",
   "lastOpenFiles": [
+    "Choosing the project.md",
     "ShipKit.md",
     "README.md",
-    "Choosing the project.md",
+    "ShipKitContents/a0.dev.md",
     "ShipKitContents/Vibecode.md",
-    "ShipKitContents/Tempo.md",
     "ShipKitContents/Stripe.md",
-    "ShipKitContents/Stream.md",
-    "ShipKitContents/Splitmetrics.md",
+    "ShipKitContents/Tempo.md",
     "ShipKitContents/Rork.md",
-    "ShipKitContents/Product Hunt.md",
-    "ShipKitContents/Perplexity.md",
-    "ShipKitContents/Paddle.md",
     "ShipKitContents/OneSignal.md",
     "ShipKitContents/Mobbin.md",
     "ShipKitContents/Manus AI.md",
-    "ShipKitContents/Linearity.md",
-    "ShipKitContents/JetBrains.md",
-    "ShipKitContents/Flutterflow.md",
     "ShipKitContents/Expo.md",
     "ShipKitContents/Eleven Labs.md",
     "ShipKitContents/CodeRabbit.md",
     "ShipKitContents/Bloom.md",
     "ShipKitContents/Astro.md",
-    "ShipKitContents/a0.dev.md",
+    "ShipKitContents/Stream.md",
+    "ShipKitContents/Splitmetrics.md",
+    "ShipKitContents/Product Hunt.md",
+    "ShipKitContents/Perplexity.md",
+    "ShipKitContents/Paddle.md",
+    "ShipKitContents/Linearity.md",
+    "ShipKitContents/JetBrains.md",
+    "ShipKitContents/Flutterflow.md",
     "ShipKitContents"
   ]
 }
